@@ -11,11 +11,11 @@ Aim of the Project is building a Sementic Segementation model which can identify
 
 The experiment is caarried out on Nvidia's RTX 2070 Super Graphic card. The Test Dice metric for the best model is 0.89. the experiment is intended to carry out for 300 epochs, but as the model is flat lining from the epoch 80 and the model with the best metrics is found at the epoch 89.
 
-![plot](imgs/Metrics.jpg)
+![plot](Imgs/Metrics.jpg)
 
 The below figure is the output from one file.
 
-![image output](imgs/TestExample.jpg) 
+![image output](Imgs/TestExample.jpg) 
 
 ## Creating the Environment and Training
 > git clone https://github.com/saiprasad1586/Liver-Segementation.git
