@@ -19,6 +19,7 @@ The below figure is the output from one file.
 
 ## Creating the Environment and Training
 > git clone https://github.com/saiprasad1586/Liver-Segementation.git
+
 > conda env create --file environemnt.yml
 
 Download the dataset from the above link in Dataset Section.
